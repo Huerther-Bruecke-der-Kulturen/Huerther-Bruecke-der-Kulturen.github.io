@@ -227,6 +227,15 @@ div.icons{
     justify-content: space-between;
 }
 
+#facebook_icon_wide_screen{
+    float:left;
+}
+
+#mail_icon_wide_screen{
+    float:right;
+}
+
+
 .posts p{
     margin:5px;
     text-align:center;
