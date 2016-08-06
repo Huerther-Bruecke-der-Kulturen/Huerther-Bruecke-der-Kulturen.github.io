@@ -229,10 +229,12 @@ div.icons{
 
 #facebook_icon_wide_screen{
     float:left;
+    margin-top:10px;
 }
 
 #mail_icon_wide_screen{
     float:right;
+    margin-top:10px;
 }
 
 
