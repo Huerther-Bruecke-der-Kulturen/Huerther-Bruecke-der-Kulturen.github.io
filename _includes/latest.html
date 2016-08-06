@@ -1,0 +1,24 @@
+<div class="box_blue_light">
+
+  <div class="rollon_view" id="latest">
+    <ul class="rollon_container">
+      <li class="rollon_prev ion">&#xf360;</li>
+      <li class="rollon_next ion">&#xf362;</li>
+      
+      {% for post in site.posts %}
+	{% capture dateTS %}{{ post.date | date: "%s"}}{% endcapture %}
+      {% capture age %}{{ "now" | date: "%s" | minus: dateTS}}{% endcapture %}
+      <li class="rollon_item" data-age="{{ age }}">
+	<a href="{{ post.url }}">
+	  <div class="small-img">
+	    <img src="{{ site.url }}{{ post.small-img }}" alt="{{ post.short-title }}" class="small-img"/>
+	  </div>
+	  <p class="lates-headline"><span class="latest-date">{{ post.date | date: "%d.%m.%y" }}:</span> <span class="latest-title">{{ post.short-title }}</span></p>
+	</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<script src="{{ site.url }}assets/js/latest.js"></script>

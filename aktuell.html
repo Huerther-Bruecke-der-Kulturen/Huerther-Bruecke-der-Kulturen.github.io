@@ -1,0 +1,31 @@
+---
+title: "Aktuelles"
+---
+
+<table id="recent">
+  {% for post in site.posts %}
+  {% capture dateTS %}{{ post.date | date: "%s"}}{% endcapture %}
+  {% capture age %}{{ "now" | date: "%s" | minus: dateTS}}{% endcapture %}
+
+  <tr class="recent" data-age="{{ age }}"><td class="blog-left">
+      <div class="fit_table">
+	<a href="{{ post.url }}">
+	  <img src="{{ site.url }}{{ post.small-img }}" alt="{{ post.short-title }}" class="vorstand"/>
+	</a>
+      </div>
+    </td><td class="blog-right">
+      <div class="fit_table">
+	<p class="lates-headline">
+	  <span class="latest-date">{{ post.date | date: "%d.%m.%y" }}:</span> <span class="latest-title">{{ post.short-title }}</span>
+	</p>
+	<p>{{ post.excerpt }} </p>
+	<p><a href="{{ post.url }}">weiterlesen</a></p>
+      </div>
+  </td></tr>
+  {% endfor %}
+</table>
+
+<div id="show_arxive" class="pointer center"><a>Ältere Meldungen anzeigen</a></div>
+
+<script src="{{ site.url }}assets/js/arxive.js"></script>
+

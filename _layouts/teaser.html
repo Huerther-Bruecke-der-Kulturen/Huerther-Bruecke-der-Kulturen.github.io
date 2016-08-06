@@ -1,0 +1,27 @@
+{% include before_main.html %}
+
+    <section id="main-content">
+
+      <img src="{{ site.url }}{{ page.teaser-bg }}" class="bg"/>
+
+      <article class="teaser">
+	<div class="box_blue_light">
+	  {{ page.excerpt }}
+	  <p><a class="read-on"> weiter lesen... </a></p>
+	</div>
+      </article>
+
+      <article class="full-text">
+	<div class="box_blue page_title">
+          <h1>{{ page.title }}</h1>
+	</div>
+
+	<div class="box_blue_light">
+          {{ content }}
+	</div>
+      </article>
+    </section>
+
+  <script src="{{ site.url }}{{ site.teaserjs }}"></script>
+
+{% include after_main.html %}
