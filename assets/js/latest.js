@@ -21,8 +21,6 @@
 
 "use strict";
 
-UTILS.hide_old(
-    {
-	max_age_s: 60 * 60 * 24 * 30.5 * 4, // 4 month
-	additional_filters: "li.rollon_item"
-    });
+$(function(){
+    $("li.rollon_item").filter_old().hide();
+});

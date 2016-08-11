@@ -21,14 +21,12 @@
 
 "use strict";
 
-UTILS.hide_old(
-    {
-	max_age_s: 60 * 60 * 24 * 30.5 * 6, // 6 month
-	additional_filters: "tr.recent"
-    });
+$(function(){
+    $("tr.recent").filter_old().hide();
+});
 
 $("#show_arxive").click(function()
-		{
-		    UTILS.show_old();
-		    $("#show_arxive").hide();
-		});
+			{
+			    $("tr.recent").show();
+			    $("#show_arxive").hide();
+			});

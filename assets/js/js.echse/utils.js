@@ -49,55 +49,19 @@
                   });
     };
 
+
+    /*
+      shortcut: filter all elements with a large data-age attribute out.
+     */
+    $.fn.filter_old = function (max_age){
+	if(max_age == undefined)
+	    max_age = 60 * 60 * 24 * 30.5 * 6; // default: 6 month;
+
+	return this.filter(function () {
+            return $(this).data('age') <= max_age;
+        });
+    };
+
 }( jQuery ));
 
-
-var UTILS={};
-
-(function(){
-
-    var default_max_age_s = 60 * 60 * 24 * 30.5 * 6; // 6 month
-
-    /*
-      Hide all elements with a large data-age attribute.
-
-      options:
-      max_age_s            [default_max_age_s[6 month]] threshhold in seconds
-      additional_filters   [*] jquery selector string. Only hide matches.
-     */
-    UTILS.hide_old = function(options)
-    {
-	if(options == undefined){options = {};}
-	if(options.max_age_s == undefined){options.max_age_s = default_max_age_s;}
-	if(options.additional_filters == undefined){options.additional_filters = "*";}
-
-	$("[data-age]").filter(options.additional_filters).each(function(index){
-	
-            if($(this).data("age") > options.max_age_s)
-	    {
-                $(this).hide();
-            }
-        });
-    }
-
-    
-    /*
-      reveal all elements with a data-age attribute matching the filters.
-
-      options:
-      additional_filters   [*] jquery selector string. Only show matches.
-    */
-    UTILS.show_old = function(options)
-    {
-	if(options == undefined){options = {};}
-	if(options.additional_filters == undefined){options.additional_filters = "*";}
-
-	$("[data-age]").filter(options.additional_filters).each(function(index)
-	{
-	    $(this).show();
-	});
-    }
-
-    
-}());
 
