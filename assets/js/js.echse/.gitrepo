@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:Echsecutor/js.echse.git
 	branch = master
-	commit = a977e330510a9c3a887bd84f0f5615e0e76ce9f6
-	parent = ce431d0add1e59503c87088d8f817c701d702dcf
+	commit = ea9f0225103e913d979fb1099021bf5e52d5eb0f
+	parent = 48ea3b10091389279597616c7140b55805e79560
 	cmdver = 0.3.0
