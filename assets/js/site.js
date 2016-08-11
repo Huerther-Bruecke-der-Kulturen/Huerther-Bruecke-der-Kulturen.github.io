@@ -40,6 +40,6 @@ $(function(){
 
     ICAL_PARSER.render("{{ site.url }}assets/basic.ics", $("#calendar"));
 
-    $(".small-img").center();
+    $(".small-img").load(function(){$(this).center();});
         
 });
