@@ -51,14 +51,14 @@
 
 
     /*
-      shortcut: filter all elements with a large data-age attribute out.
+      shortcut: filter for all elements with a large data-age attribute.
      */
     $.fn.filter_old = function (max_age){
 	if(max_age == undefined)
 	    max_age = 60 * 60 * 24 * 30.5 * 6; // default: 6 month;
 
 	return this.filter(function () {
-            return $(this).data('age') <= max_age;
+            return $(this).data('age') > max_age;
         });
     };
 
