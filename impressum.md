@@ -5,7 +5,7 @@ title: "Impressum"
 ## Verantwortlich für die Inhalte dieser Website und Angaben gemäß &sect; 5 TMG
 
 Hürther Brücke der Kulturen e. V.<br/>
-BachStraße 97b<br/>
+Bach Straße 97b<br/>
 50354 Hürth<br/>
 
 Email: [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de)
