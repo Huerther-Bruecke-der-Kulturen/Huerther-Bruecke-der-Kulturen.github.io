@@ -10,9 +10,9 @@ Bach Straße 97b<br/>
 
 Email: [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de)
 
-Vorsitzende: [Elena Letezki](e.letezki@huerther-bruecke-der-kulturen.de)
+Vorsitzende: [Elena Letezki](mailto:e.letezki@huerther-bruecke-der-kulturen.de)
 
-Webmaster: [Sebastian Schmittner](webmaster@huerther-brueke-der-kulturen.de)
+Webmaster: [Sebastian Schmittner](mailto:webmaster@huerther-brueke-der-kulturen.de)
 
 St.-Nr. 224/5792/5297
 
