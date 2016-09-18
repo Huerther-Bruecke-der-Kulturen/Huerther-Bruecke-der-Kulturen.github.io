@@ -1,7 +1,7 @@
 ---
 title: Gar nicht so einfach
 short-title: Schwimmkurse
-small-img: assets/images/schwimmkurs01.jpg
+small-img: assets/images/Schwimmkurs01.jpg
 excerpt: Dies ist ein interessanter Artikel
 ---
 
