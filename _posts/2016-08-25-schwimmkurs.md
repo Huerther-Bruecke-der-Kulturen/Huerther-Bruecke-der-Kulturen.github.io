@@ -1,5 +1,8 @@
 ---
 title: "Ein singender Deutschkurs"
+short-title: Beispiel
+small-img: assets/images/tagline.png
+excerpt: Dies ist ein interessanter Artikel
 ---
 
 ![Ein singender Deutschkurs](http://info.huerther-bruecke-der-kulturen.de/wp-content/uploads/2015/10/10424260_1573319806241248_3177927148700299917_n-300x225.jpg){: .wp-image-72.aligncenter.lightbox}
