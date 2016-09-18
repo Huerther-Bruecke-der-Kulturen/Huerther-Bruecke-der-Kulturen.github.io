@@ -22,5 +22,5 @@
 "use strict";
 
 $(function(){
-    $("li.rollon_item").filter_old().hide();
+    $("li.rollon_item").filter_old(60 * 60 * 24 * 30.5 * 4).hide();
 });
