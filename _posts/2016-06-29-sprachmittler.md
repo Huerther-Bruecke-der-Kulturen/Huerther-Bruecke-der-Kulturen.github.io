@@ -1,8 +1,8 @@
 ---
-title: Sprachmittler geschult
-short-title: Sprachmittler geschult
+title: Sprachlotsen geschult
+short-title: Sprachlotsen geschult
 small-img: assets/images/sprachmittler/mittler-small.jpg
-excerpt: "Geschafft! Glücklich und erleichtert nahmen am 29. Juni unsere Sprachmittler ihre Urkunden entgegen."
+excerpt: "Geschafft! Glücklich und erleichtert nahmen am 29. Juni unsere Sprachlotsen ihre Urkunden entgegen."
 ---
 
 
@@ -50,7 +50,7 @@ excerpt: "Geschafft! Glücklich und erleichtert nahmen am 29. Juni unsere Sprach
 </section>
 
 
-Geschafft! Glücklich und erleichtert nahmen am 29. Juni unsere Sprachmittler ihre Urkunden entgegen: Sie hatten an 5 Schulungstagen 5 Module absolviert zu diesen Themen
+Geschafft! Glücklich und erleichtert nahmen am 29. Juni unsere Sprachlotsen ihre Urkunden entgegen: Sie hatten an 5 Schulungstagen 5 Module absolviert zu diesen Themen
 
 - Gesetzliche Grundlagen des Ausländerrechts, Sozialrecht und Asylverfahren (Referent war Ferdi Siepen, Leiter des Ausländeramts Kerpen)
 
@@ -65,6 +65,6 @@ Geschafft! Glücklich und erleichtert nahmen am 29. Juni unsere Sprachmittler ih
 
 Nun sind sie gerüstet, unseren Gästen Fragen zu beantworten, sie bei Behördenterminen zu begleiten und zu den oben genannten Themen ggf. auch zu beraten.
 
-Möglich gemacht haben die Veranstaltungen Ziya Simek und Andreas Timeus von der Integrationsagentur AWO. Ihnen gilt unser herzlicher Dank für lehrreiche, großartige Schulungen, die unsere Sprachmittler weitergebracht haben und unseren Flüchtlingen helfen werden.
+Möglich gemacht haben die Veranstaltungen Ziya Simek und Andreas Timeus von der Integrationsagentur AWO. Ihnen gilt unser herzlicher Dank für lehrreiche, großartige Schulungen, die unsere Sprachlotsen weitergebracht haben und unseren Flüchtlingen helfen werden.
 
 
