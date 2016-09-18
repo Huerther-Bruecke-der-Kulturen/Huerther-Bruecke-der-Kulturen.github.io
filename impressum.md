@@ -1,14 +1,15 @@
 ---
-title: "Impressum"
+title: Impressum
 ---
 
-## Verantwortlich für die Inhalte dieser Website und Angaben gemäß &sect; 5 TMG
 
-Hürther Brücke der Kulturen e. V.<br/>
-Bach Straße 97b<br/>
-50354 Hürth<br/>
+## Verantwortlich f&uuml;r die Inhalte dieser Website und Angaben gem&auml;&szlig; &sect; 5 TMG
 
-Email: [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de)
+H&uuml;rther Br&uuml;cke der Kulturen e. V.
+<br>Friedrich-Ebert-Stra&szlig;e 36
+<br>50354 H&uuml;rth
+
+E-Mail: [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de)
 
 Vorsitzende: [Elena Letezki](mailto:e.letezki@huerther-bruecke-der-kulturen.de)
 
@@ -16,79 +17,31 @@ Webmaster: [Sebastian Schmittner](mailto:webmaster@huerther-brueke-der-kulturen.
 
 St.-Nr. 224/5792/5297
 
-Vereinsregister: Amtsgericht Köln.: VR 18592
-
-
+Vereinsregister: Amtsgericht K&ouml;ln.: VR 18592
 
 ### Bankverbindung
 
-Raiffeisenbank Frechen-Hürth e.G. <br/>
-IBAN: DE44 37062365 1211681019
+Raiffeisenbank Frechen-H&uuml;rth e.G.
+<br>IBAN: DE44 37062365 1211681019
 
-
----------------------------------------------------
-
+---
 
 ## Lizenzen
 
 ### Inhalte und Design
 
-Die Inhalte, Grafiken und Gestaltung der Hürther Brücke der Kulturen
-e.V. Webseiten sind nicht Lizensiert und dürfen ohne schriftliches
-Einverständnis des Vereinsvorstandes nicht verwendet oder reproduziert
-werden. Verweise auf die Webseiten, auch solche die eine Vorschau
-enthalten, sind ausdrücklich erlaubt.
-
+Die Inhalte, Grafiken und Gestaltung der H&uuml;rther Br&uuml;cke der Kulturen e.V. Webseiten sind nicht Lizensiert und d&uuml;rfen ohne schriftliches Einverst&auml;ndnis des Vereinsvorstandes nicht verwendet oder reproduziert werden. Verweise auf die Webseiten, auch solche die eine Vorschau enthalten, sind ausdr&uuml;cklich erlaubt.
 
 ### Software
 
-Diese Webseite verwendet ausschließlich freie Software. Wir
-bedanken uns bei den folgenden Projekten/Autoren:
+Diese Webseite verwendet ausschlie&szlig;lich freie Software. Wir bedanken uns bei den folgenden Projekten/Autoren:
 
-<table id="thx-table">
-<thead>
-<tr>
-<th>Software</th>
-<th>Autor/Anbieter</th>
-<th>Lizenz</th>
-</tr>
-</thead>
-<tbody>
+| Software | Autor/Anbieter | Lizenz |
+| --- | --- | --- |
+| [jekyll](http://jekyllrb.com/) | [Tom Preston-Werner](https://jquery.org/team/) | [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE) |
+| [jQuery](http://jquery.com/) | [jQuery Foundation](https://jquery.org/team/) | [MIT](https://jquery.org/license/) |
+| [momentjs](http://momentjs.com/) | [Tim Wood, Iskren Chernev, Moment.js contributors](https://github.com/moment/moment/graphs/contributors) | [MIT](https://github.com/moment/moment/blob/develop/LICENSE) |
+| [megamenu-js](https://github.com/marioloncarek/megamenu-js) | [Mario Loncarek](https://github.com/marioloncarek) | [MIT](https://github.com/marioloncarek/megamenu-js/blob/master/licence.md) |
+| [Rollon, Lighbox, ical-parser](https://github.com/Echsecutor/js.echse) | [Sebastian Schmittner](http://echsecutables.schmittner.pw/de/index.html) | [LGPL](https://github.com/Echsecutor/js.echse/blob/master/LICENSE) |
 
-<tr>
-<td><a href="http://jekyllrb.com/">jekyll</a></td>
-<td><a href="https://jquery.org/team/">Tom Preston-Werner</a></td>
-<td><a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT</a></td>
-</tr>
-
-<tr>
-<td><a href="http://jquery.com/">jQuery</a></td>
-<td><a href="https://jquery.org/team/">jQuery Foundation</a></td>
-<td><a href="https://jquery.org/license/">MIT</a></td>
-</tr>
-
-<tr>
-<td><a href="http://momentjs.com/">momentjs</a></td>
-<td><a href="https://github.com/moment/moment/graphs/contributors">Tim Wood, Iskren Chernev, Moment.js contributors</a></td>
-<td><a href="https://github.com/moment/moment/blob/develop/LICENSE">MIT</a></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/marioloncarek/megamenu-js">megamenu-js</a></td>
-<td><a href="https://github.com/marioloncarek">Mario Loncarek</a></td>
-<td><a href="https://github.com/marioloncarek/megamenu-js/blob/master/licence.md">MIT</a></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/Echsecutor/js.echse">Rollon, Lighbox, ical-parser</a></td>
-<td><a href="http://echsecutables.schmittner.pw/de/index.html">Sebastian Schmittner</a></td>
-<td><a href="https://github.com/Echsecutor/js.echse/blob/master/LICENSE">LGPL</a></td>
-</tr>
-
-</tbody>
-</table>
-
-
-Wir bedanken uns weiterhin bei <a href="https://pages.github.com/">github pages</a> (GitHub, Inc.) und <a href="http://cloudcannon.com/">cloudcannon</a> (CloudCannon Ltd).
-
-
+Wir bedanken uns weiterhin bei [github pages](https://pages.github.com/) (GitHub, Inc.) und [cloudcannon](http://cloudcannon.com/) (CloudCannon Ltd).
