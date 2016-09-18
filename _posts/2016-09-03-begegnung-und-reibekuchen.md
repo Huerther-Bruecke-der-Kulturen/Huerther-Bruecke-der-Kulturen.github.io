@@ -2,7 +2,7 @@
 title: Begegnung und Reibekuchen
 short-title: Familienfest 2016
 small-img: assets/images/familienfest01.jpg
-Excerpt: "Gut besucht war das diesjährige Familienfest am Bürgerpark. Klar, dass die Hürther Brücke der Kulturen mit von der Partie war."
+excerpt: "Gut besucht war das diesjährige Familienfest am Bürgerpark. Klar, dass die Hürther Brücke der Kulturen mit von der Partie war."
 ---
 
 <section class="rollon_view">
