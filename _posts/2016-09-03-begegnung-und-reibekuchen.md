@@ -1,0 +1,8 @@
+---
+title: Begegnung und Reibekuchen
+short-title: Familienfest 2016
+small-img: assets/images/familienfest01.jpg
+---
+
+
+Gut besucht war das diesjährige Familienfest am Bürgerpark von „de Bütt“ und „10Pin“. Das Fest organisierte der Stadtsportbund gemeinsam mit 10Pin und stellte ein buntes Programm auf. Klar, dass die Hürther Brücke der Kulturen mit von der Partie war. Wir hatten einen Stand gemeinsam mit weiteren Hürther Initiativen aufgebaut: mit dem ZMO, der Initiative „Buntes Hürth“ sowie mit dem Integrationsrat der Stadt. Besonderes Interesse zogen unsere Malerinnen auf sich, die mit Hennafarbe wunderschöne Blumen und Muster auf (Kinder-)Hände zauberten. Und die afrikanischen Damen am Stand zeigten ihre Flechtkunst, indem sie bunte Bänder oder Kunsthaarsträhnen mit Echthaar verwoben.
