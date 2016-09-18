@@ -21,7 +21,7 @@ title: 'Wir bedanken uns bei unseren Förderern und Partnern!'
 * [Dem Amt f&uuml;r Integration, Inklusion und Fl&uuml;chtlingshilfe der Stadt H&uuml;rth](http://www.huerth.de/vv/oe/dezernat3/Amt_53.php), insbesondere bei der Integrationsbeauftragten Frau Marita Meurer
 * [Der B&uuml;rgerstiftung H&uuml;rth](http://www.buergerstiftung-huerth.de)
 * [Der Caritas](https://caritas.erzbistum-koeln.de/rheinerft_cv/)
-* [Initiative "Buntes H&uuml;rth"](http://www.buntes-huerth.de)
+* [Initiative "Buntes H&uuml;rth"](http://www.buntes-huerth.de){:target="_blank"}
 * [Dem Frauenforum Br&uuml;hl-H&uuml;rth e.V.](http://www.frauen-forum.biz)
 * [Der Josef Metternich Musikschule H&uuml;rth](http://www.huerth.de/kultur/musikschule/musikschule.php)
 * [Dem Katholisches Bildungswerk Rhein-Erft](http://bildung.erzbistum-koeln.de/bw-rhein-erft-kreis)
