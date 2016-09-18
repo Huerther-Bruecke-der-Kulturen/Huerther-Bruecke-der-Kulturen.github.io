@@ -20,7 +20,7 @@ excerpt: „Willkommen ... und dann? Vom Flüchtlingen zum Nachbarn“
     </li>
     <li class="rollon_item">
         <div class="small-img">
-      <img src="/assets/images/2016-06-09-PHOTO-00000042.jpg" class="lightbox" />
+      <img src="/assets/images/podiumsdisk03.jpg" class="lightbox" />
       </div>
     </li>
 
