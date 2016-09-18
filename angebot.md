@@ -3,6 +3,8 @@ title: Unser Angebot
 ---
 
 
+![](/uploads/versions/projekte2---x0-0-4000-2248-4000-2248x---.jpg)
+
 Die Aktivit&auml;ten der „H&uuml;rther Br&uuml;cke der Kulturen e.V.“ sind vielf&auml;ltig, wenn es um die Integration und Unterst&uuml;tzung von Asylsuchenden, Asylberechtigten und Migranten geht, die in H&uuml;rth leben.
 
 Das Asylcaf&eacute; und die Deutschkurse stellen bereits zwei wichtige Eckpfeiler der Vereinsarbeit dar. &Uuml;ber das Angebot k&ouml;nnen Sie sich hier umfassend informieren.
