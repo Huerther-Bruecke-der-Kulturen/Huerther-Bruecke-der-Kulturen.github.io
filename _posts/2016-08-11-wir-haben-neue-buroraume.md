@@ -1,10 +1,8 @@
 ---
 title: Wir haben neue Büroräume
 short-title: Umzug
-excerpt: Die Hürther Brücke der Kulturen bezieht am 25.8.2016 neue Büroräume an der Friedrich-Ebert-Straße 34.
+excerpt: Die Hürther Brücke der Kulturen hat Anfang September neue Büroräume an der Friedrich-Ebert-Straße 36 bezogen.
 ---
 
 
-Die Hürther Brücke der Kulturen bezieht am 25.8.2016 neue Büroräume ander Friedrich-Ebert-Straße 34. Hier können dann auch Gruppen undBesprechungen stattfinden.  Der bisherige Raum in der Bachstraße kanndamit verstärkt als Unterrichtsraum für Deutsch-Kurse genutzt werden.Aufgrund des Umzuges ist der Verein vom 16.8.2016 – 2.9.2016telefonisch nicht erreichbar. Anfragen in dieser Zeit bitte unter[info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de).
-
-Nach dem Umzug sind die Mitarbeiter wieder unter der Telefonnummer02233-7138669 zu erreichen.
+Die H&uuml;rther Br&uuml;cke der Kulturen hat Anfang September neue B&uuml;ror&auml;ume an der Friedrich-Ebert-Stra&szlig;e 36 bezogen. Hier findet die Verwaltung und Organisation unseres Vereins statt. Au&szlig;erdem geh&ouml;rt zu dem neuen Standort ein Begegnungsraum, den Gruppen f&uuml;r Veranstaltungen nutzen k&ouml;nnen und wo Besprechungen stattfinden. Der bisherige Raum in der Bachstra&szlig;e kann damit verst&auml;rkt als Unterrichtsraum f&uuml;r Deutschkurse genutzt werden. Die Telefonnummer der H&uuml;rther Br&uuml;cke hat sich nicht ge&auml;ndert, wir sind weiterhin unter 02233 713669 erreichbar sowie per E-Mail unter [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de).
