@@ -5,10 +5,7 @@ title: Impressum
 
 ## Verantwortlich f&uuml;r die Inhalte dieser Website und Angaben gem&auml;&szlig; &sect; 5 TMG
 
-H&uuml;rther Br&uuml;cke der Kulturen e. V.
-<br>Friedrich-Ebert-Stra&szlig;e 36
-<br>50354 H&uuml;rth
-<br>Tel.: 02233 7138669
+{% include address.html %}
 
 E-Mail: [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de)
 
