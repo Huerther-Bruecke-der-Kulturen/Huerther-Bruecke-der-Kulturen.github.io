@@ -8,6 +8,7 @@ title: Impressum
 H&uuml;rther Br&uuml;cke der Kulturen e. V.
 <br>Friedrich-Ebert-Stra&szlig;e 36
 <br>50354 H&uuml;rth
+<br>Tel.: 02233 7138669
 
 E-Mail: [info@huerther-bruecke-der-kulturen.de](mailto:info@huerther-bruecke-der-kulturen.de)
 
