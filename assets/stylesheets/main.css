@@ -237,7 +237,6 @@ div.icons{
     margin-top:10px;
 }
 
-
 .posts p{
     margin:5px;
     text-align:center;
@@ -385,6 +384,12 @@ td.pic{
     margin:5px;
     display: inline-block;
 }
+
+.right_floating_img{
+    max-width:50%;
+    float:right;
+}
+
 
 @media screen and (min-width: 960px) {
     img.icon{

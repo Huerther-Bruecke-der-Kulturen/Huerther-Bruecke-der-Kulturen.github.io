@@ -2,7 +2,7 @@
 title: 'Raum für mich'
 ---
 
-<img class="lightbox" src="/assets/images/raum.png" />
+<img src="/assets/images/raum.png" class="right_floating_img" />
 
 Im RAUM FÜR MICH treffen sich seit Anfang 2016 jede Woche bis zu 10
 Frauen und ihre Kinder aus den Hürther Flüchtlingsfamilien, um zu
