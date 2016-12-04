@@ -387,7 +387,8 @@ td.pic{
 
 .right_floating_img{
     max-width:50%;
-    align:right;
+    float:right;
+    margin-left:20px;
 }
 
 

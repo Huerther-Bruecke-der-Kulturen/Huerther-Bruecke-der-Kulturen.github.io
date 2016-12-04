@@ -2,6 +2,9 @@
 title: 'Starke Frauen treffen sich'
 ---
 
+<img src="/assets/images/starke_frauen.jpg" />
+
+
 Seit Anfang November gibt es ein neues Angebot für Flüchtlingsfrauen:
 Im Begegnungsraum des Vereins „Hürther Brücke der Kulturen e.V.“ (HBK)
 können sie sich mittwochs zwischen 9:30 und 12:30 Uhr austauschen und
