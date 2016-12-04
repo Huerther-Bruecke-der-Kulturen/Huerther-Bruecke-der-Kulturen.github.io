@@ -2,6 +2,8 @@
 title: 'Raum für mich'
 ---
 
+<img class="lightbox" src="/assets/images/raum.png" />
+
 Im RAUM FÜR MICH treffen sich seit Anfang 2016 jede Woche bis zu 10
 Frauen und ihre Kinder aus den Hürther Flüchtlingsfamilien, um zu
 gestalten. Unter der Leitung von Nadia Mahi, Corina Morar und Anna

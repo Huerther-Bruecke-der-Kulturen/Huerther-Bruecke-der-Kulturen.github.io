@@ -1,8 +1,6 @@
 ---
-title: 'Raum für mich'
+title: 'Starke Frauen treffen sich'
 ---
-
-## Starke Frauen treffen sich
 
 Seit Anfang November gibt es ein neues Angebot für Flüchtlingsfrauen:
 Im Begegnungsraum des Vereins „Hürther Brücke der Kulturen e.V.“ (HBK)
