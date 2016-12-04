@@ -1,9 +1,10 @@
 ---
-title: Neues Projekt: Brücke der Generationen
+title: Neues Projekt - Brücke der Generationen
 short-title: Brücke der Generationen
-small-img: assets/images/tag_der_offenen_tuer/tdt8.jpg
-excerpt: "Anfang Oktober lud die Hürther Brücke der Kulturen zu ihrem Tag der
-offenen Tür."
+excerpt: "Hürth ist eine lebendige und kulturell vielfältige
+Stadt. Ca. 25 Prozent ihrer Einwohner/-innen haben eine
+Zuwanderungsgeschichte, etwa 12 Prozent dieser Gruppe sind älter als
+65 Jahre."
 ---
 
 <table style="width:100%;margin-bottom:20px;">
