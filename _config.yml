@@ -2,10 +2,8 @@ encoding: utf-8
 name: "Hürther Brücke der Kulturen"
 url: "/"
 giturl: "https://huerther-bruecke-der-kulturen.github.io/"
-teaserstyle: "assets/stylesheets/teaser.css"
 logo: "assets/images/Logo256.jpg"
 tagline: "assets/images/tagline.png"
-teaserjs: "assets/js/teaser.js"
 defaults:
   -
     scope:
