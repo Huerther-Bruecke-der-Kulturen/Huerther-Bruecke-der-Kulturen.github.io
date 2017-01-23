@@ -80,7 +80,6 @@ table{
 }
 
 
-
 .page_title{
     margin-top: 5px;
     margin-bottom: 5px;
@@ -283,6 +282,10 @@ div.icons{
     margin-right:15px;
     height:250px;
     text-align:center;
+}
+
+.lightbox{
+    cursor: pointer;
 }
 
 .small-img{
