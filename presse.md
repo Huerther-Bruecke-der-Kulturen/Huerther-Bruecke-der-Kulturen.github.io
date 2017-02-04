@@ -3,9 +3,10 @@ title: "In der Presse"
 ---
 
 <ul>
+
 <li>
-<h2> 06.07.2016 Rundschau </h2>
-<img src="{{ site.url }}assets/images/presse/2016-07-06-Rundschau.png" class="lightbox"/>
+<h2> 07.01.2017 Sonntagspost </h2>
+<img src="{{ site.url }}assets/images/presse/2017-02-04-hbdk-Bericht-Sonntagspost.JPG" class="lightbox"/>
 </li>
 
 <li>
