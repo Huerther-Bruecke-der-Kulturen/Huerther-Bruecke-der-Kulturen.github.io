@@ -2,14 +2,6 @@
 title: 'Wir bedanken uns bei unseren Förderern und Partnern!'
 ---
 
-
-## Wir werden gef&ouml;rdert durch
-
-* [Das kommunale Integrationszentrum Rhein-Erft-Kreis ![](/assets/images/logos/ki-rek.jpg){: .partnerLogo}](http://www.kommunale-integrationszentren-nrw.de/rhein-erft-kreis)
-* [Das Land NRW ![](assets/images/logoMAIS_4c.jpg)](https://www.mais.nrw/) [![](/assets/images/logos/logo-ministerium.jpg){: .partnerLogo}](https://www.mais.nrw/komm-nrw)
-* [Die Stadt H&uuml;rth ![](/assets/images/logos/logo-stadt.jpg){: .partnerLogo}](http://www.huerth.de)
-* [Das https://www.mais.nrw/
-
 ## Wir sind Mitglied im
 
 * [Elternnetzwerk NRW ![](/assets/images/logos/logo-elternnetzwerk.jpg){: .partnerLogo}](http://www.paritaet-nrw.org)

@@ -330,6 +330,12 @@ div.small-img{
     max-width:250px;
 }
 
+.index-logo{
+    max-width: 40%;
+    vertical-align: middle;
+    margin:5px;
+}
+
 .event-listing-title{
     font-size:140%;
 }
