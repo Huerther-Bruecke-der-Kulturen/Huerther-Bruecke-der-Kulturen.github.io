@@ -35,10 +35,6 @@ $(function(){
     $(".rollon_container").rollon({
 	item_selector: ".rollon_item:visible"
     });
-    
-    moment.locale('de');
-
-    ICAL_PARSER.render("{{ site.url }}assets/basic.ics", $("#calendar"));
 
     $(".small-img").center();//immediat -> no flickering if image is in cache
     $(".small-img").load(function(){$(this).center();});

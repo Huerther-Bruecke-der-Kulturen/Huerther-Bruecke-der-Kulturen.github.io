@@ -715,3 +715,38 @@ Mobile style's
         display: block;
     }
 }
+
+
+/* ––––––––––––––––––––––––––––––––––––––––––––––––––
+gcl corrections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.agenda .event-time{
+    display: none;
+}
+
+.agenda .event-reply-status{
+    display: none;
+}
+
+.agenda .title-wrapper{
+    margin: 0;
+}
+
+.agenda .event-title{
+    white-space: normal;
+    text-align: center;
+}
+
+.event-details-label{
+    display: none;
+}
+
+.event-when, .event-where, .event-description, .event-who, .event-going{
+    margin: 0;
+}
+
+.agenda .event-links{
+    margin:0;
+}
+
