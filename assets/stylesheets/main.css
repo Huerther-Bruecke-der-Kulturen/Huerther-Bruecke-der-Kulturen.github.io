@@ -750,3 +750,19 @@ gcl corrections
     margin:0;
 }
 
+#footer1.footer{
+    display: none;
+}
+
+.view-cap, .view-container-border{
+    background-color:{{ page.boxBlueLight }};
+}
+
+.view-container-border{
+    padding:0;
+}
+
+.t1-embed, .t2-embed{
+    margin:0;
+}
+
