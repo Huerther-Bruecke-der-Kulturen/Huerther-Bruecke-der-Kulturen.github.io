@@ -331,9 +331,17 @@ div.small-img{
 }
 
 .index-logo{
-    max-width: 40%;
-    vertical-align: middle;
-    margin:5px;
+    height: 55px;
+    margin:0px;
+    border: 1px solid {{ page.boxBlue }};
+}
+
+#support{
+    margin-top: 50px;
+}
+
+#main-content .sign{
+    margin-top: 20px;
 }
 
 .event-listing-title{

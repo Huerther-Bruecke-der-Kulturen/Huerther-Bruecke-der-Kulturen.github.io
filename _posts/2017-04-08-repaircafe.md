@@ -89,5 +89,12 @@ des Hürther Asylcafés von Margit Reisewitz auf eine etwaige Mithilfe
 angesprochen. Ihr Anliegen stieß auf großes Interesse und vielleicht
 verstärken ja bald schon "neue Nachbarn" das Team.
 
+Die nächsten Termine sind
+* 13. Mai
+* 10. Juni
+* 8. Juli
+* 12. August
+
+
 <img src="{{ site.url }}assets/images/2017-03-repair/repair1.jpg"/>
 
