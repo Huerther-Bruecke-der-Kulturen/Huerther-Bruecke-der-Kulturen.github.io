@@ -756,6 +756,11 @@ gcl corrections
     display: none;
 }
 
+.detail-item{
+    font-family: Arial;
+    font-size: 0.8rem;
+}
+
 .event-when, .event-where, .event-description, .event-who, .event-going{
     margin: 0;
 }

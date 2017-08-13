@@ -2,8 +2,7 @@
 title: Wir
 ---
 
-
-![](/uploads/versions/wir---x----1024-639x---.jpg)
+<img src="{{ site.url }}assets/images/vorstand/alle.jpg" class="lightbox"/>
 
 Die „H&uuml;rther Br&uuml;cke der Kulturen e. V.“ ist ein Verein, der sich als Migrantenselbstorganisation versteht. Das hei&szlig;t, dass zu uns Menschen mit Wurzeln in aller Welt kommen, die mit ihren F&auml;higkeiten die Vereinsarbeit tragen und diese gestalten. Wir wollen gemeinsam zum interkulturellen Austausch und Dialog in unserer Stadt beitragen und sichtbare Zeichen setzen f&uuml;r ein „Wir“ – ein respektvolles und tolerantes Miteinander – in H&uuml;rth. „Gemeinsam eins sein“ – so lautet unser Slogan, der im Schuljahr 2013 von der Eingangsklasse f&uuml;r Gestaltung am H&uuml;rther Goldenberg Berufskolleg zum Thema Integration entwickelt wurde. Unser Ziel ist es, dass Integration in unserer Stadt H&uuml;rth und dar&uuml;ber hinaus gelingt.
 

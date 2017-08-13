@@ -11,6 +11,8 @@ title: 'Wir bedanken uns bei unseren Förderern und Partnern!'
 ## Wir bedanken uns f&uuml;r die gute Zusammenarbeit bei:
 
 * [Dem Amt f&uuml;r Integration, Inklusion und Fl&uuml;chtlingshilfe der Stadt H&uuml;rth](http://www.huerth.de/vv/oe/dezernat3/Amt_53.php), insbesondere bei der Integrationsbeauftragten Frau Marita Meurer
+
+* [Der AWO, Regionalverband Rhein-Erft & Euskirchen e.V.](http://www.awo-bm-eu.de)
 * [Der B&uuml;rgerstiftung H&uuml;rth](http://www.buergerstiftung-huerth.de)
 * [Der Caritas](https://caritas.erzbistum-koeln.de/rheinerft_cv/)
 * [Initiative "Buntes H&uuml;rth"](http://www.buntes-huerth.de){:target="_blank"}

@@ -29,5 +29,10 @@ Die n&auml;chsten Termine sind
 * `10. Juni`{: .highlighter-rouge}
 * `08. Juli`{: .highlighter-rouge}
 * `12. August`{: .highlighter-rouge}
+* `09. September`
+* `14. Oktober`
+* `11. November`
+* `09. Dezember`
+
 
 ![](/assets/images/2017-03-repair/repair1.jpg)
