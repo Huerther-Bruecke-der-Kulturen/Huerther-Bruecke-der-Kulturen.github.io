@@ -408,6 +408,12 @@ td.pic{
     margin-left:20px;
 }
 
+.left_floating_img{
+    max-width:50%;
+    float:left;
+    margin-right:20px;
+}
+
 
 @media screen and (min-width: 960px) {
     img.icon{
