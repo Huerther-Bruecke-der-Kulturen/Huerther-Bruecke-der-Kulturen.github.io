@@ -348,6 +348,10 @@ div.small-img{
     font-size:140%;
 }
 
+.event-details{
+    margin-bottom:10px;
+}
+
 .event-ul{
     display:block;
     padding:0;
@@ -791,3 +795,6 @@ gcl corrections
     margin:0;
 }
 
+.gray{
+    color: gray;
+}
