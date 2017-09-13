@@ -760,6 +760,7 @@ gcl corrections
 .agenda .event-title{
     white-space: normal;
     text-align: center;
+    color: black;
 }
 
 .event-details-label{
