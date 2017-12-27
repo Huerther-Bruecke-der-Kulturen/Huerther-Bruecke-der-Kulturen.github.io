@@ -1,6 +1,89 @@
 ---
 title: "Unsere Vereinsgeschichte"
 ---
+
+
+## Dezember 2017
+
+Tag der offenen Tür im Asylcafé
+
+
+## November 2017
+
+Zweite Kinder-und Familienkunstaktion mit Romain Burgy im Asylcafé „Phantastische Tierwelt“
+
+Teilnahme am Projekttag des Albert-Schweitzer-Gymnasiums
+
+Teilnahme am „Tag der Begegnung“ 
+
+
+## Oktober 2017
+
+Teilnahme am Hürther Wirtschaftstag
+
+
+## September 2017
+
+Teilnahme am Familienfest des Stadtsportverbandes
+
+Spendenübergabe von „Hürth Rockt“ im Asylcafé
+
+Spendenübergabe der Gesamtschule Brühl
+
+Teilnahme am Jahresempfang des Bürgermeisters
+
+
+## Juli 2017
+
+Übernahme der Schirmherrschaft der HBK e.V. durch den Bürgermeister Dirk Breuer im Rahmen einer Feierstunde
+
+
+## Juni 2017
+
+Besuch der Veranstaltung „Tag der Bundeswehr“ im Bundessprachenamt
+
+Kinderfest im Asylcafé
+
+
+## Mai 2017
+
+Besuch des Zirkusfestivals des Lions-Clubs
+
+Besichtigung der Fordwerke
+
+Beginn des Projekts „Starke Frauen“ im Begegnungsraum
+
+
+## April 2017
+
+Einzug des Repair-Cafés in den Begegnungsraum der HBK e-V.
+
+Beginn des Projekts „Raum für mich“ im Begegnungsraum
+
+
+## März 2017
+
+Spendenübergabe des Lions-Clubs
+
+„Zeichen gegen Rassismus“, Veranstaltung in Zusammenarbeit mit dem Integrationsrat der Stadt Hürth im Asylcafé
+
+Frühlingsfest im Asylcafé
+
+Das Kolping Roadshow-Mobil macht Station vor den Büroräumen der HBK e.V.
+
+
+## Februar 2017
+
+Spendenübergabe des Bundessprachenamtes
+
+Karneval im Asylcafé
+
+
+## Januar 2017
+
+Kinder-und Familienkunstaktion mit Romain Burgy und Geflüchteten im Asylcafé: „Wie sieht Deine Traumwohnwelt aus?“
+
+
 ## Dezember 2016
 
 Der Nikolaus kommt ins Asylcafé.
