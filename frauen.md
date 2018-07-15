@@ -1,34 +1,32 @@
 ---
-title: 'Starke Frauen treffen sich'
+title: 'Powerfrauen: Migrantinnen stärken'
 ---
 
-Im Begegnungsraum des Vereins „Hürther Brücke der Kulturen e.V.“ (HBK)
-können sich geflüchtete Frauen **mittwochs zwischen 9:30 und 12:30 Uhr**
-austauschen und ihre Deutschkenntnisse verbessern.
+<img src="assets/images/powerfrauen/Powerfrauen.jpg">
 
-Sie erfahren von
-Projektleiterin Anna Mussawi mehr über die Lebensweise in Deutschland
-und wie unser Bildungs- und Gesundheitssystem funktionieren.
-Die
-Iranerin möchte das Selbstbewusstsein und die Selbstständigkeit der
-Frauen stärken. Schließlich sind sie es aus ihrer Heimat eher gewohnt,
-sich im Hintergrund zu halten und für den Haushalt und die Kinder zu
-sorgen.  Anna Mussawi zeigt bei den Treffen beispielsweise kurze Filme
-zu Gesundheitsthemen. Anschließend entspinnt sich darüber ein
-lockeres Gespräch und die Projektleiterin vermittelt das
-Vokabular.
+Einmal wöchentlich treffen sich Migrantinnen aus verschiedenen Ländern
+in zwangloser Atmosphäre bei der Hürther Brücke der Kulturen. Sie
+frühstücken gemeinsam, tauschen sich über ihre Lebenssituation aus und
+erhalten Informationen über die für sie fremde Gesellschaftsstruktur
+Deutschlands.
 
-Auch vermeintliche Tabuthemen wie Verhütung und häusliche
-Gewalt spricht sie an. Manche Diskussion entsteht aus einem aktuellen
-Anlass. Die Frauen sollen erleben, frei ihre Meinung äußern zu können,
-gehört zu werden und mitzureden.
+Anna Mussawi, die Projektleiterin, bereitet zu jedem Termin ein neues
+Thema vor. Dieses wird im gemeinsamen Gespräch, anhand von Materialien
+oder Erklärfilmen bearbeitet und diskutiert. Beispielsweise geht es um
+Kinder und Frauenrechte, unser Gesundheitssystem und unser Schulsystem
 
-Das Projekt ist eine Kooperation
-zwischen dem AWO Regionalverband Rhein-Erft-Kreis & Euskirchen, der
-Hürther Brücke der Kulturen sowie der Integrationsbeauftragten der
-Stadt Hürth. Die Anmietung des Begegnungsraums der HBK wurde
-finanziell durch das KommAn-Programm des Landes NRW vom kommunalen
-Integrationszentrum des Rhein-Erft-Kreises gefördert.
+ Die Familienstruktur in anderen Kulturen unterscheidet sich meist
+ stark von der deutschen. Gerade Frauen mit Kindern ist der Zugang zur
+ gesellschaftlichen Teilhabe erschwert. Viele haben in ihren Ländern
+ keine Schule besucht. Besonders durch die fehlende Sprachkompetenz –
+ meist gehen nur die Männer in die Deutschkurse – ist es für die
+ Frauen sehr schwer, sich im öffentlichen Leben zu orientieren.
 
+In der Gruppe erleben die Migrantinnen die Gemeinschaft und das Gefühl
+der Isolation wird abgeschwächt. Da die Frauen unterschiedliche
+Sprachen sprechen, ist es für sie unerlässlich, sich in der deutschen
+Sprache zu verständigen. So werden Sprachkenntnisse erst vermittelt
+und dann verbessert.
 
-
+„Powerfrauen“ findet jeweils mittwochs von 10- 12 Uhr statt. Das
+Angebot wird von der Stiftung „Herzenswunsch“ unterstützt.

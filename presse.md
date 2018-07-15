@@ -5,6 +5,11 @@ title: "In der Presse"
 <ul>
 
 <li>
+<h2> 24.03.2018 Hürther Wochenende </h2>
+<img src="{{ site.url }}assets/images/2018-spende/repair.jpg" class="lightbox"/>
+</li>
+
+<li>
 <h2> 07.01.2017 Sonntagspost </h2>
 <img src="{{ site.url }}assets/images/presse/2017-02-04-hbdk-Bericht-Sonntagspost.JPG" class="lightbox"/>
 </li>

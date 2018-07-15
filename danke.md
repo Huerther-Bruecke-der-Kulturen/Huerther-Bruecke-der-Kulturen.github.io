@@ -9,6 +9,11 @@ Wir m&ouml;chten an dieser Stelle allen Menschen herzlich danken, die die Arbeit
 
 Ohne Ihre Spenden w&auml;re unsere Arbeit nicht m&ouml;glich.
 
+<a
+href="https://www.betterplace.org/de/projects/58422/donations/new"
+target="_blank">Über unsere Spendenkampagne auf betterplace.org können Sie schnell und einfach spenden und
+bekommen Sie zum Jahresanfang automatisch eine Spendenquittung.</a>
+
 Wir – die „H&uuml;rther Br&uuml;cke der Kulturen e.V.“ - freuen uns &uuml;ber jeden, der sich mit seinen F&auml;higkeiten und seiner Pers&ouml;nlichkeit in unserem Verein einbringen m&ouml;chte – vorausgesetzt er handelt damit im Sinne des Vereins.
 
 „Gemeinsam eins sein“ lautet unser Slogan. Integration und Toleranz k&ouml;nnen aber nur von beiden Seiten gelebt werden, von deutschen B&uuml;rgerinnen und B&uuml;rgern und den Menschen, die zu uns kommen und eine „neue“ Zukunft suchen.
