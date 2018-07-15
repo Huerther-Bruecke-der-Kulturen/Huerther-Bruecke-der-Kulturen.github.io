@@ -31,36 +31,36 @@
 //jquery "plugins":
 (function ( $ ) {
 
-    // center elements within their parent using css margins
-    $.fn.center = function(options)
-    {
-	var settings = $.extend(
-	    {
-		horizontally: true,
-		vertically: true,
-	    },options);
+  // center elements within their parent using css margins
+  $.fn.center = function(options)
+  {
+    var settings = $.extend(
+      {
+	horizontally: true,
+	vertically: true,
+      },options);
 
-        this.each(function(index)
-                  {
-		      if(settings.vertically)
-			  $(this).css("margin-top",($(this).parent().height()-$(this).height())/2);
-		      if(settings.horizontally)
-			  $(this).css("margin-left",($(this).parent().width()-$(this).width())/2);
-                  });
-    };
+    this.each(function(index)
+              {
+		if(settings.vertically)
+		  $(this).css("margin-top",($(this).parent().height()-$(this).height())/2);
+		if(settings.horizontally)
+		  $(this).css("margin-left",($(this).parent().width()-$(this).width())/2);
+              });
+  };
 
 
-    /*
-      shortcut: filter for all elements with a large data-age attribute.
-     */
-    $.fn.filter_old = function (max_age){
-	if(max_age == undefined)
-	    max_age = 60 * 60 * 24 * 30.5 * 6; // default: 6 month;
+  /*
+shortcut: filter for all elements with a large data-age attribute.
+   */
+  $.fn.filter_old = function (max_age){
+    if(max_age == undefined)
+      max_age = 60 * 60 * 24 * 30.5 * 6; // default: 6 month;
 
-	return this.filter(function () {
-            return $(this).data('age') > max_age;
-        });
-    };
+    return this.filter(function () {
+             return $(this).data('age') > max_age;
+           });
+  };
 
 }( jQuery ));
 
