@@ -2,7 +2,7 @@
 title: 'Powerfrauen: Migrantinnen stärken'
 ---
 
-<img src="assets/images/powerfrauen/Powerfrauen.jpg">
+<img src="assets/images/powerfrauen/powerfrauen1.jpg">
 
 Einmal wöchentlich treffen sich Migrantinnen aus verschiedenen Ländern
 in zwangloser Atmosphäre bei der Hürther Brücke der Kulturen. Sie
@@ -30,3 +30,5 @@ und dann verbessert.
 
 „Powerfrauen“ findet jeweils mittwochs von 10- 12 Uhr statt. Das
 Angebot wird von der Stiftung „Herzenswunsch“ unterstützt.
+
+<img src="assets/images/powerfrauen/powerfrauen2.jpg">
