@@ -5,6 +5,17 @@ title: "In der Presse"
 <ul>
 
 <li>
+<h2> 09.2018 360 Grad Hürth </h2>
+<img src="{{ site.url }}assets/images/2018-12/artikel_360_hurth.jpg" class="lightbox"/>
+</li>
+<li>
+
+<h2> 26.09.2018 Hürther Wochenende </h2>
+<img src="{{ site.url }}assets/images/2018-12/wochenende_hurth_ist_bunt.jpg" class="lightbox"/>
+</li>
+
+
+<li>
 <h2> 24.03.2018 Hürther Wochenende </h2>
 <img src="{{ site.url }}assets/images/2018-spende/repair.jpg" class="lightbox"/>
 </li>
